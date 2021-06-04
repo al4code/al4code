@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @al4code
-- 👀 I’m interested in technology 
-- 🌱 I’m currently learning react and react native
-- 💞️ I’m looking to collaborate on web application  
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning ..
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
